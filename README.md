@@ -1,4 +1,4 @@
-# SplitShare
+# SplitSync
 
 A full-stack web application for splitting subscription costs among groups. Users can create groups, invite members, track payments, and manage shared subscriptions with integrated payment processing.
 
